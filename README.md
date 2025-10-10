@@ -34,16 +34,3 @@ Discover, explore, and submit to the best AI tool directories—perfect for keep
 - [AI-Tools-Inc/awesome-ai-tools](https://github.com/AI-Tools-Inc/awesome-ai-tools) – Workflow automation and productivity focus.
 
 > Want to add a new directory? Open a pull request or submit an issue to keep this list growing!
-
-***
-
-This section helps other developers quickly find quality AI tools and contribute to open resources in the AI ecosystem.[1][2][7][8]
-
-[1](https://github.com/best-of-ai/ai-directories)
-[2](https://github.com/topics/ai-tools-directory)
-[3](https://github.com/mahseema/awesome-ai-tools)
-[4](https://github.com/ozgrozer/top-ai-directories)
-[5](https://aitoolsdirectory.com)
-[6](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
-[7](https://github.com/topics/awesome-ai-tools)
-[8](https://github.com/topics/ai-tools-directory?o=asc&s=updated)
