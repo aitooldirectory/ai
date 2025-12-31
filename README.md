@@ -36,7 +36,6 @@ Discover, explore, and submit to the best AI tool directories—perfect for keep
 - [AI-Tools-Inc/awesome-ai-tools](https://github.com/AI-Tools-Inc/awesome-ai-tools) – Workflow automation and productivity focus.
 
 - [best-of-ai/ai-directories](https://github.com/best-of-ai/ai-directories) – The most comprehensive "meta-list" of AI directories.
-- [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) – Highly active community repository focusing on open-source and developer-centric models.
 - [Toolkitly/awesome-ai-tools](https://github.com/ToolkitlyAI/awesome-ai-tools) – Focused on productivity and creativity tools with a pull-request system for new submissions.
 - [LichAmnesia/awesome-ai-tools-dataset](https://github.com/LichAmnesia/awesome-ai-tools-dataset) – A structured dataset of 3,000+ tools often used as a source for other developer-made directories.
 - [ozgrozer/top-ai-directories](https://github.com/ozgrozer/top-ai-directories) – Simple, continually updated AI directory list.
