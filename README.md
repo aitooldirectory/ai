@@ -19,6 +19,7 @@ Discover, explore, and submit to the best AI tool directories—perfect for keep
 - **[Aixploria](https://www.aixploria.com/)** – Offers a massive collection of 5,000+ tools categorized by specific professions and creative industries.
 - **[OpenTools.ai](https://opentools.ai/)** – Known for its community-driven Q&A sessions and detailed step-by-step workflow guides for business AI.
 - **[FutureTools](https://www.futuretools.io/)** – Curated by Matt Wolfe, this directory focuses on high-quality, frequently used tools with a strong emphasis on automation and productivity.
+- **[AI Tool Web Dir](https://aitoolwebdir.com/)** – A hand-picked directory of 165 AI tools across 12 categories (chat, coding, image, video, voice, productivity, agents), with pricing comparison and an open submission form.
 
 ### 🆕 New for 2025: Specialized & Marketplace Directories
 
